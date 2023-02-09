@@ -6,5 +6,5 @@ Place these file inside a folder call "src" and put inside django's app. The com
 
 Run 
 ```
-npm build
+npm run build
 ```
